@@ -5,7 +5,7 @@ file: “task1a.py”Pseudo-random number generator
 The program generates random numbers. To achieve it, I used the
 linear consequential generator, what is based on formula:
 
-Where X is the sequence of pseudo-random values. During the classes we tested different variants
+Where X is the sequence of pseudo-random values. I tested different variants
 of the coefficients: a, c, and m, to observe how “randomness” is conditioned (in the equation).
 Some coefficients were creating short repeated period.
 
